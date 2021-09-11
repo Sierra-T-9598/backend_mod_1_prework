@@ -15,11 +15,11 @@
 # EXAMPLE: write code below that will print an array of animals.
 # Store the array in a variable.
 animals = ["Zebra", "Giraffe", "Elephant"];
-print animals
+puts animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
-print animals[0]
+puts animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
@@ -32,10 +32,11 @@ puts animals
 
 # YOU DO: Write code that will add a nepw animal (type of your choice) to position 3.
 animals[3] = "Lemur"
-print animals
+puts animals
 
 # YOU DO: Write code that will print the String "Elephant" in the animals array
-puts animals[2]
+animals[4] = "Elephant"
+puts animals[4]
 
 #-------------------
 # PART 2: Foods: Array Methods

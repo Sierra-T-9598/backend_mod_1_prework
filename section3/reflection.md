@@ -48,4 +48,4 @@ Another example of when we might use a hash is to collect/map data about a certa
 1. What questions do you still have about hashes?
 
 + When/why do we use the simplified hash syntax versus the hash rockets?
-+ What does the `"-" * 10` mean? 
++ What does the `"-" * 10` mean?

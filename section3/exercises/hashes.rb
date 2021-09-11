@@ -48,7 +48,7 @@ email = {
 }
 
 # Write code that prints your email hash to the terminal.
-puts email
+print email
 
 puts "-" * 10
 puts "The sender is #{email["sender"]} "
@@ -141,4 +141,4 @@ email = [
   }
 ]
 
-puts emails
+puts email
