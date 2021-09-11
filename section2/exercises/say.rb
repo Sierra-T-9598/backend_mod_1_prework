@@ -29,4 +29,6 @@ end
 
 def print_num(num)
   puts num
-end 
+end
+
+print_num(3) 
