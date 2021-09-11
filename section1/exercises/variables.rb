@@ -42,7 +42,8 @@ puts number_of_pets
 
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
-# I decided to use a String for the first_name variable because listing my name
+
+###I decided to use a String for the first_name variable because listing my name
 #is a sequence of characters that need to be stored between "". I used boolean
 #for the variable is_hungry because it can be answered as a true/false, treating
 #hunger as a conditional statement. I used the numbers data type for number_of_pets
@@ -64,8 +65,8 @@ puts number_of_pets
 # Using the variables below, print the total number of snacks to the terminal:
 healthy_snacks = 6;
 junk_food_snacks = 8;
-total = healthy_snacks + junk_food_snacks
-puts total
+total_snacks = healthy_snacks + junk_food_snacks
+puts total_snacks
 #-------------------
 # FINAL CHECK
 #-------------------

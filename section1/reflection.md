@@ -17,7 +17,7 @@ liked the idea that "reading is to the mind what exercise is to your body" as an
 
 1. How would you print the string `"Hello World!"` to the terminal?
 
-I would print the string `"Hello World!"` to the terminal by entering the string
+I would print the string `"Hello World!"` to the terminal by writing
 `puts "Hello World!"`
 
 1. What character is used to indicate comments in a ruby file?
@@ -47,4 +47,4 @@ The method used to get input from a user is `gets.chomp`.
 
 1. Name and describe two common string methods:
 + `.length` will tell you how many characters are in the string.
-+ `.split` will break apart a string at spaces, giving you back an array. 
++ `.split` will break apart a string at spaces, giving you back an array.
