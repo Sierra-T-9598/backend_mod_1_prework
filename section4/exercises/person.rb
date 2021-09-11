@@ -24,6 +24,8 @@ class Person
   end
 end
 
-sylvia = Person.new("hair_color", "height", "name")
+sylvia = Person.new("blonde", "five feet, five inches", "Sylvia")
 puts sylvia.speak
 puts sylvia.dye_hair("red")
+puts sylvia.hair_color
+puts sylvia.height

@@ -18,7 +18,7 @@ class Burrito
     return new_toppings
   end
 
-  def remove_topping
+  def remove_first_topping
     toppings.shift
     puts "Now you have #{toppings} for toppings."
   end
@@ -35,7 +35,7 @@ p dinner.toppings
 p dinner.base
 p dinner.protein
 p dinner.add_topping("sour_cream")
-p dinner.remove_topping
+p dinner.remove_first_topping
 p dinner.change_protein("Carnitas")
 
 #class is burrito
